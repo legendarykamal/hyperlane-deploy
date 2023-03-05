@@ -117,6 +117,15 @@
     "id": 13373
   },
   "scroll": {
-    "id": 534353
+    "id": 534353,
+    "owner": "0x0",
+    "contracts": {
+      "proxyAdmin": "0x0",
+      "mailbox": "0x0",
+      "interchainGasPaymaster": "0x0",
+      "create2Factory": "0x0",
+      "validatorAnnounce": "0x0",
+      "testRecipient": "0x0"
+    }
   }
 }
