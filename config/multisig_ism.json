@@ -194,5 +194,22 @@
         "name": "random address for testing"
       }
     ]
+  },
+  "scroll":{
+    "threshold": 2,
+    "validators": [
+      {
+        "address": "",
+        "name": ""
+      },
+      {
+        "address": "",
+        "name": ""
+      },
+      {
+        "address": "",
+        "name": ""
+      }
+    ]
   }
 }
