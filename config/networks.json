@@ -118,7 +118,7 @@
   },
   "scroll": {
     "id": 534353,
-    "owner": "0x0",
+    "owner": "0xfaD1C94469700833717Fa8a3017278BC1cA8031C",
     "contracts": {
       "proxyAdmin": "0x0",
       "mailbox": "0x0",
