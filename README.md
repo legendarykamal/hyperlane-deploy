@@ -1,3 +1,8 @@
+ Deployed addresses
+
+ MultisigIsm deployed at address 0x0816d0C250EEf4FdF04997F62FaAe97D3E3f2b5d
+  TestRecipient deployed at address 0x5681f7DBA81D068cA804d0b2aC4D3b00370A4dB0
+
 # Hyperlane Deploy
 
 ## Overview
