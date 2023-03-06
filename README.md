@@ -23,6 +23,9 @@ For more detailed instructions on how to deploy Hyperlane to the EVM chain of yo
   yarn install
   git submodule init && git submodule update --remote
   ```
+Deploying Multisig
+![image](https://user-images.githubusercontent.com/95926324/223019420-9fc2eb04-9252-4424-9d6f-380b87869c4f.png)
+
 
 ### Deploying core contracts
 
