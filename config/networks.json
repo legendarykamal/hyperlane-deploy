@@ -120,7 +120,7 @@
     "id": 534353,
     "owner": "0xfaD1C94469700833717Fa8a3017278BC1cA8031C",
     "contracts": {
-      "proxyAdmin": "0x0",
+      "proxyAdmin": "0x12ed5102Ab98855e7A6752389a84FDF14B39d001",
       "mailbox": "0x0",
       "interchainGasPaymaster": "0x0",
       "create2Factory": "0x0",
