@@ -1,7 +1,22 @@
  Deployed addresses
 
  MultisigIsm deployed at address 0x0816d0C250EEf4FdF04997F62FaAe97D3E3f2b5d
-  TestRecipient deployed at address 0x5681f7DBA81D068cA804d0b2aC4D3b00370A4dB0
+ TestRecipient deployed at address 0x5681f7DBA81D068cA804d0b2aC4D3b00370A4dB0
+
+Messages sent 
+https://explorer.hyperlane.xyz/message/5b6efc41945190f2d5e959fd23af25cc4fbf565a8b3c64c9714c990bfc884526
+
+`
+export RPC_URL=https://alpha-rpc.scroll.io/l2
+export PRIVATE_KEY=
+
+export ORIGIN=scroll
+export DESTINATION=mumbai
+export RECIPIENT=0x0439427C42a099E7E362D86e2Bbe1eA27300f6Cb
+export BODY=kamal
+forge script scripts/SendTestMessage.s.sol --broadcast --rpc-url $RPC_URL \
+  --private-key $PRIVATE_KEY
+`
 
 # Hyperlane Deploy
 
